@@ -3,7 +3,7 @@ function checkAnswer() {
     const userInput = document.getElementById("answerInput").value.trim().toLowerCase();
 
     if (userInput === correctAnswer) {
-        window.location.href = "pornhub.com";  // Change to your desired URL
+        window.location.href = "https://www.pornhub.com/";  // Change to your desired URL
     } else {
         alert("Incorrect answer. Try again.");
     }
