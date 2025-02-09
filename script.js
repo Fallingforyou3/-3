@@ -1,5 +1,5 @@
 function checkAnswer() {
-    const correctAnswer = "wave";  // Change this to your desired answer
+    const correctAnswer = "321";  // Change this to your desired answer
     const userInput = document.getElementById("answerInput").value.trim().toLowerCase();
 
     if (userInput === correctAnswer) {
